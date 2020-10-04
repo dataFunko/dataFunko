@@ -1,0 +1,7 @@
+{
+  "name": "dataFunko",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
